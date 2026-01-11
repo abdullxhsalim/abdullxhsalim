@@ -55,6 +55,6 @@
 
 | Project | Role & Description | Stack |
 | :--- | :--- | :--- |
-| **[NSU Finance Club](https://nsufinanceclub.org)** | **Core Developer (1 of 3)**.<br>Co-developed the of the club's new digital platform. | `React` `TypeScript` `Web Dev` |
+| **[NSU Finance Club](https://nsufinanceclub.org)** | **Core Developer (1 of 3)**.<br>Co-developed the club's new digital platform. | `React` `TypeScript` `Web Dev` |
 | **[Barebones](https://github.com/abdullxhsalim/barebones)** | **Co-creator**.<br>A digital logic project designing a functional passcode lock system using **only basic logic gates**, demonstrating low-level hardware understanding without microcontrollers. | `Digital Logic` `Circuit Design` |
 <br/>
