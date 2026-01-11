@@ -10,7 +10,7 @@
   <br/>
 
   <h3>
-    CSE Undergrad • Competitive Programmer • Aspiring Researcher
+    CSE Undergrad
   </h3>
 
   <a href="https://www.linkedin.com/in/abdullxhsalim/">
@@ -58,8 +58,3 @@
 | **[NSU Finance Club](https://nsufinanceclub.org)** | **Core Developer (1 of 3)**.<br>Co-developed the of the club's new digital platform. | `React` `TypeScript` `Web Dev` |
 | **[Barebones](https://github.com/abdullxhsalim/barebones)** | **Co-creator**.<br>A digital logic project designing a functional passcode lock system using **only basic logic gates**, demonstrating low-level hardware understanding without microcontrollers. | `Digital Logic` `Circuit Design` |
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullxhsalim&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullxhsalim&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
-</div>
